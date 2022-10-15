@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Github](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/single-price-grid-component-haAcwZamgN)
+- Live Site URL: [Github](https://vjeanty02.github.io/Single-price-grid-component/)
 
 ## My process
 
