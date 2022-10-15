@@ -71,9 +71,7 @@ footer
     grid-template-columns: auto;
     grid-template-rows: auto;
     grid-column-gap: 0px;
-    grid-row-gap: 0px;
-
-    
+    grid-row-gap: 0px; 
 }
     
     /*----------  section-community  ----------*/
@@ -154,3 +152,18 @@ footer
     }
 /*=====  End of main  ======*/
 
+@media all and (min-width: 0px) and (max-width: 600px) 
+{
+    .single-price
+    {
+        display: flex;
+    }
+    .single-price_section-us 
+    {
+        border-radius: 0 0 10px 10px;
+    }
+    .single-price_section-subscription 
+    {
+        border-radius: 0;
+    }
+}
