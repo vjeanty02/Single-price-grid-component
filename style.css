@@ -72,6 +72,9 @@ footer
     grid-template-rows: auto;
     grid-column-gap: 0px;
     grid-row-gap: 0px; 
+    padding: 0px;
+
+    box-shadow: 0px 10px 14px -7px hsl(179, 62%, 38%);
 }
     
     /*----------  section-community  ----------*/
